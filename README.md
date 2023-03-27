@@ -25,8 +25,8 @@ Demonstração parte 2:
 * Requisições HTTP (GET, POST, PATCH e DELETE) e API Rest 
 * Conceituação sobre Future
 * Tratamento de erros nas requisições
-* Async/Await;
-* Pull-To-Refresh para atualização com o banco de dados;
+* Async/Await
+* Pull-To-Refresh para atualização com o banco de dados
 
 ## :hammer_and_wrench:	Como rodar o projeto? 
 
