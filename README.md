@@ -19,7 +19,8 @@ Demonstração parte 2:
 * Padrão Observer 
 * Utilização do Consumer 
 * Snackbar e confirmações com Dialog
-* Utilização do Form (formKey, Controllers e FocusNode)
+* Utilização do Form 
+   * formKey, Controllers e FocusNode
 * Conceituação sobre tipos de Armazenamento
 * Conceituação sobre como é feita a conexão com WebServer
 * Requisições HTTP (GET, POST, PATCH e DELETE) e API Rest 
