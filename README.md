@@ -13,7 +13,20 @@ Demonstração parte 2:
 ![demonstracao_loja_pt2](https://user-images.githubusercontent.com/109693767/228033428-76b7c0d5-57e1-43a8-91b9-27940edd99a2.gif)
 
 ## Aprendizados:
-* 
+* Conceituação sobre Estado
+* Conceituação sobre uso do Provider para Gerenciamento de Estado
+* Mixins
+* Padrão Observer 
+* Utilização do Consumer 
+* Snackbar e confirmações com Dialog
+* Utilização do Form (formKey, Controllers e FocusNode)
+* Conceituação sobre tipos de Armazenamento
+* Conceituação sobre como é feita a conexão com WebServer
+* Requisições HTTP (GET, POST, PATCH e DELETE) e API Rest 
+* Conceituação sobre Future
+* Tratamento de erros nas requisições
+* Async/Await;
+* Pull-To-Refresh para atualização com o banco de dados;
 
 ## :hammer_and_wrench:	Como rodar o projeto? 
 
